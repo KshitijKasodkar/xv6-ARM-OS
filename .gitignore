@@ -1,0 +1,11 @@
+# build outputs
+build/
+*.o
+*.d
+*.asm
+*.sym
+kernel.elf
+fs.img
+usr/_*
+tools/mkfs
+.vscode/
